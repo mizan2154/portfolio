@@ -102,4 +102,49 @@ footer p{
 #three{
     border-left: 7px solid red;
 }
+.try{
+    margin-left: 350px;
+    float: left;
+    margin-top: 5.7cm;
+   
+}
+.fourth-part{
+    background-image: url("image/backimg.png");
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
 
+.pos{
+    margin-top: 6.5cm;
+    margin-right: 10cm;
+    margin-left: 4cm;
+}
+.button3{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.wi{
+    color: white;
+}
+.last-part{
+    color: black;
+    text-align: center;
+}
+.lt{
+    color: black;
+}
+.fs{
+    font-size: 30px;
+}
+.icon img{
+    width: 25px;
+    height: 25px;
+}
+.ic{
+    margin-right: 8px;
+}
